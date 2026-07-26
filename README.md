@@ -1,2 +1,2 @@
 # Spotiplayer
-Physical Spotify
+Physical Spotify Player
